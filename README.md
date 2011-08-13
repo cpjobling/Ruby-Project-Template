@@ -20,6 +20,7 @@ features.
 Guard will also continuously watch the Gemfile and will re-run bundler
 if it changes. 
 
-After this, you can do as you will!
+You should start developing your classes and modules in the lib directory
+and any scripts or other excutable artefacts in the bin directory.
 
 Good luck!
